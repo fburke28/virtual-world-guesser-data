@@ -1,0 +1,116 @@
+{
+  "quests": {
+    "starter_pack": [
+      {
+        "id": "starter_stonehenge",
+        "name": "The Ancient Wonder",
+        "title": "Quest: Stonehenge",
+        "image": "android.resource://com.fdb.virtualworldguesser/drawable/explorer",
+        "poem": "Begin where the tidal river meets the sea,\nWhere bridges span and history flows free.\nIn the capital where towers stand tall,\nWhere royal crowns mark passing times for all.\n\nJourney west where the chalk hills rise,\nThrough counties where ancient wisdom lies.\nSeek the plain where armies once trained,\nWhere prehistoric mysteries remained.\n\nFrom the city of Roman baths, travel south and east,\nWhere Neolithic builders never ceased.\nFind where standing sentinels align,\nWith solstice sun and stars divine.\nEight miles north of the cathedral spire,\nWhere druids' dreams set hearts afire.",
+        "location": {
+          "name": "Stonehenge",
+          "latitude": 51.1789,
+          "longitude": -1.8262,
+          "type": "HISTORICAL_SITE"
+        },
+        "packageName": "starter_pack",
+        "pointsReward": 5000,
+        "rewardBadge": "quest_icon",
+        "hints": [
+          "This region has a long tradition of creating ceremonial spaces in open landscapes",
+          "Ancient peoples here built structures that connected them to the natural world around them",
+          "The area is known for prehistoric monuments that mark significant places in the landscape"
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "id": "starter_machu_picchu",
+        "name": "The Lost Citadel",
+        "title": "Quest: Machu Picchu",
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+        "poem": "Start where the empire's heart once beat,\nAt eleven thousand feet where cultures meet.\nIn the city where conquistadors found gold,\nWhere Incan walls their stories told.\n\nFollow the blessed valley's winding way,\nWhere terraced fields still greet the day.\nJourney northwest along the river's course,\nWhere condors soar with natural force.\n\nClimb beyond the town where waters warm,\nWhere mountain paths show no relenting.\nSeek the ridge between two peaks that guard,\nThe citadel where history's scarred.\nAt eight thousand feet, the lost city waits,\nWhere twin summits create the gates.",
+        "location": {
+          "name": "Machu Picchu",
+          "latitude": -13.1631,
+          "longitude": -72.5450,
+          "type": "HISTORICAL_SITE"
+        },
+        "packageName": "starter_pack",
+        "pointsReward": 5000,
+        "rewardBadge": "quest_icon",
+        "hints": [
+          "This civilization mastered agriculture on steep mountain slopes using terraced farming techniques",
+          "The culture excelled at building in high-altitude environments with sophisticated stone masonry",
+          "Ancient peoples here created settlements that harmonized with dramatic natural landscapes"
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "id": "starter_taj_mahal",
+        "name": "The Mighty Monument",
+        "title": "Quest: Taj Mahal",
+        "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?w=400&h=300&fit=crop",
+        "poem": "Begin where seven cities once stood,\nThe capital where empires understood.\nWhere the fortress of scarlet guards the old,\nAnd Mughal stories are still told.\n\nTravel southeast on the sacred river's path,\nWhere Ganges' sister flows its math.\nJourney to the city of the red stone,\nWhere marble dreams are widely known.\n\nFrom the stronghold of crimson hue,\nLook across where gardens grew.\nFollow the river's eastern shore,\nWhere symmetry and beauty soar.\nFind the mausoleum of purest white,\nReflected in the water's light.",
+        "location": {
+          "name": "Taj Mahal",
+          "latitude": 27.1751,
+          "longitude": 78.0421,
+          "type": "LANDMARK"
+        },
+        "packageName": "starter_pack",
+        "pointsReward": 5000,
+        "rewardBadge": "quest_icon",
+        "hints": [
+          "This region has a rich tradition of creating monuments that blend architectural beauty with deep emotional meaning",
+          "The culture is known for exquisite marble craftsmanship and symmetrical design principles",
+          "Historical love stories have inspired some of the world's most celebrated architectural achievements here"
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "id": "starter_great_pyramid",
+        "name": "The Eternal Feat",
+        "title": "Quest: Great Pyramid of Giza",
+        "image": "android.resource://com.fdb.virtualworldguesser/drawable/knight_explorer",
+        "poem": "Start where the river splits in two,\nIn the city where minarets pierce the blue.\nWhere the fortress stands on high,\nAnd ancient markets never die.\n\nCross the life-giving river's western side,\nWhere pharaohs' tombs in grandeur hide.\nJourney to the plateau of three,\nWhere pyramids reach eternally.\n\nFrom the watcher with human visage,\nNavigate through time and space.\nSeek the largest, oldest of the three,\nBuilt for the pharaoh of eternity.\nOn the plateau's highest ground,\nWhere ancient mysteries are found.",
+        "location": {
+          "name": "Great Pyramid of Giza",
+          "latitude": 29.9792,
+          "longitude": 31.1342,
+          "type": "HISTORICAL_SITE"
+        },
+        "packageName": "starter_pack",
+        "pointsReward": 5000,
+        "rewardBadge": "quest_icon",
+        "hints": [
+          "This ancient civilization developed advanced techniques for constructing monumental structures",
+          "The culture perfected methods of preserving and honoring their rulers through grand architectural projects",
+          "This region is renowned for creating some of humanity's earliest and most enduring architectural marvels"
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "id": "starter_eiffel_tower",
+        "name": "The Modern Marvel",
+        "title": "Quest: Eiffel Tower",
+        "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=300&fit=crop",
+        "poem": "Begin at the cathedral with gargoyles and rose,\nOn the island where the city arose.\nWhere Gothic spires touch the sky,\nAnd legends of the bell-ringer never die.\n\nCross the river to the Left Bank's side,\nWhere culture and history coincide.\nJourney west along the water's flow,\nPast the palace where treasures glow.\n\nContinue to the Field of Mars,\nWhere military parades left their scars.\nSeek the iron lattice that pierces the sky,\nWhere an engineer's vision lies high.\nAt the park's northwestern edge you'll find,\nThe tower that captures every mind.",
+        "location": {
+          "name": "Eiffel Tower",
+          "latitude": 48.8584,
+          "longitude": 2.2945,
+          "type": "LANDMARK"
+        },
+        "packageName": "starter_pack",
+        "pointsReward": 5000,
+        "rewardBadge": "quest_icon",
+        "hints": [
+          "This region has a strong tradition of celebrating engineering achievements through public monuments",
+          "The culture values innovation in materials and design, especially during periods of industrial advancement",
+          "Urban planning here often incorporates grand structures that become symbols of national identity"
+        ],
+        "difficulty": "medium"
+      }
+    ]
+  }
+}
